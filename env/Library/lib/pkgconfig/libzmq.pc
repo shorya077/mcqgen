@@ -1,0 +1,12 @@
+prefix=c:/Users/modgi/mcqgen/env/Library
+exec_prefix=c:/Users/modgi/mcqgen/env/Library
+libdir=c:/Users/modgi/mcqgen/env/Library/lib
+includedir=c:/Users/modgi/mcqgen/env/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 

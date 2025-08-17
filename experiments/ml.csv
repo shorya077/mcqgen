@@ -1,0 +1,6 @@
+MCQ,choice,Correct
+What is machine learning?,a: A field of study in artificial intelligence concerned with developing and studying statistical algorithms | b: A field of study in artificial intelligence only concerned with data analysis | c: A field of study in artificial intelligence focused on robotics | d: A field of study in artificial intelligence focused on computer programming,a
+What is the application of machine learning to business problems known as?,a: Predictive analytics | b: Natural language processing | c: Computer vision | d: Data mining,a
+Which field of study focuses on exploratory data analysis via unsupervised learning?,a: Machine learning | b: Data mining | c: Deep learning | d: Artificial intelligence,b
+What class of statistical algorithms have surpassed many previous machine learning approaches in performance?,a: Neural networks | b: Decision trees | c: Support vector machines | d: Logistic regression,a
+What provides a framework for describing machine learning from a theoretical viewpoint?,a: Deep learning | b: Probably approximately correct learning | c: Natural language processing | d: Email filtering,b
